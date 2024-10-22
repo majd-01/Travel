@@ -6,6 +6,10 @@
 
 body{
     background-color: rgb(255, 255, 255);
+
+}
+html{
+    scroll-behavior: smooth;
 }
 .nav{
     height: 65px;
@@ -37,6 +41,11 @@ body{
 
 .nav li:hover{
     color: #e76f26;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
 }
 
 /*--------------------------------------------------------------------------------------------------------------------*/
